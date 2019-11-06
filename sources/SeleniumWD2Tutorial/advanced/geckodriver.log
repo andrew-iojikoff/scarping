@@ -1,0 +1,31 @@
+1481266354638	geckodriver	INFO	Listening on 127.0.0.1:52175
+1481266355629	mozprofile::profile	INFO	Using profile path /var/folders/hr/lf3xj9js0_1gtld_ldw7jynh32drgp/T/rust_mozprofile.iJHFnawdIgeW
+1481266355630	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481266355646	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52184
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2354: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2354: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481266408463	geckodriver	INFO	Listening on 127.0.0.1:52254
+1481266409465	mozprofile::profile	INFO	Using profile path /var/folders/hr/lf3xj9js0_1gtld_ldw7jynh32drgp/T/rust_mozprofile.iVtRxS4Sg1Ke
+1481266409466	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481266409468	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52263
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2354: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2354: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481266454270	geckodriver	INFO	Listening on 127.0.0.1:52329
+1481266455277	mozprofile::profile	INFO	Using profile path /var/folders/hr/lf3xj9js0_1gtld_ldw7jynh32drgp/T/rust_mozprofile.VxbXtLXzHygB
+1481266455278	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481266455280	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52338
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2354: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2354: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481267142144	geckodriver	INFO	Listening on 127.0.0.1:52741
+1481267143144	mozprofile::profile	INFO	Using profile path /var/folders/hr/lf3xj9js0_1gtld_ldw7jynh32drgp/T/rust_mozprofile.E5xQLPm8aUgK
+1481267143145	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481267143158	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52753
+1481267143612	Marionette	INFO	Listening on port 52753
+1481267165270	geckodriver	INFO	Listening on 127.0.0.1:52842
+1481267166278	mozprofile::profile	INFO	Using profile path /var/folders/hr/lf3xj9js0_1gtld_ldw7jynh32drgp/T/rust_mozprofile.u2mTh0ie7uPT
+1481267166279	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481267166281	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52851
+1481267166736	Marionette	INFO	Listening on port 52851

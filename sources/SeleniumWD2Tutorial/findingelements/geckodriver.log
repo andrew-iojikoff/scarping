@@ -1,0 +1,14 @@
+1481217135472	geckodriver	INFO	Listening on 127.0.0.1:49896
+1481217136478	mozprofile::profile	INFO	Using profile path /var/folders/hr/lf3xj9js0_1gtld_ldw7jynh32drgp/T/rust_mozprofile.azcYf2Jar6ax
+1481217136479	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481217136481	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49902
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2354: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2354: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1481217224527	geckodriver	INFO	Listening on 127.0.0.1:50102
+1481217225535	mozprofile::profile	INFO	Using profile path /var/folders/hr/lf3xj9js0_1gtld_ldw7jynh32drgp/T/rust_mozprofile.mbDKjbBGNYLY
+1481217225535	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481217225538	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50108
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2354: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://fast.wistia.com/assets/external/E-v1.js, line 2354: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-133d4d7c9de72117ee8e.24ec5279eef1.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
